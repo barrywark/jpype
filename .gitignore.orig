@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+build/
+=======
 *.py[co]
 
 # Packages
@@ -25,3 +28,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+>>>>>>> 7565c9e8f7c59e8628099fa7e40f876d42d70162
