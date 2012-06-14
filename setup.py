@@ -1,4 +1,6 @@
-from distutils.core import setup as distSetup, Extension
+from distutils.core import setup as distSetup
+from setuptools import Extension
+from setuptools.command import bdist_egg
     
 import os, os.path, sys
 
